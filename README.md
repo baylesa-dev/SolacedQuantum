@@ -1,3 +1,7 @@
+<div style="text-align:center">
+   <img src="./.assets/image.png">
+</div>
+
 ## Run on macOS Apple Chip (M1, M2, ...)
 
 1. Install .NET 6.0 for macOS ARM64 **AND** x64 :
@@ -30,3 +34,5 @@ dotnet run
 ```
 
 🎉
+
+![Alt text](image-2.png)
