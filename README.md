@@ -33,6 +33,4 @@ export PATH=/usr/local/share/dotnet/x64:$PATH
 dotnet run
 ```
 
-🎉
-
-![Alt text](image-2.png)
+<div style="text-align:center;">🎉</div>
